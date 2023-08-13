@@ -1,0 +1,5 @@
+{{#user}
+Name: Pratibha Nimbolkar
+Skills: HTML, CSS, JS, Next.js
+Email: pratibhanimbolkat@gmail.com
+{{/user}}
